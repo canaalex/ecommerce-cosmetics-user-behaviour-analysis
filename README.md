@@ -8,7 +8,7 @@ This project analyzes user interaction data from an online cosmetics platform to
 - Users often add items to cart but drop off before buying
 - Most purchases happen within a short time (within an hour)
 - Repeat users are much more likely to purchase
-- Users tend to view higher-priced products but buy cheaper ones
+- Users tend to view higher priced products but buy cheaper ones
 
 ## Funnel Visualization
 <img width="650" height="381" alt="Screenshot 2026-04-18 at 9 46 39 AM" src="https://github.com/user-attachments/assets/f8d73c65-cd34-417d-968c-d14b47e83f7f" />
